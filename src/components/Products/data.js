@@ -13,7 +13,8 @@ export const productData = [
     desc:
       'Salsa marinara, albahaca, salchicha italiana, tomates roma, aceitunas y pesto',
     price: '800$',
-    button: 'Agregar al carrito'
+    button: 'Agregar al carrito',
+    cantidad: 100
   },
   {
     img: product2,
@@ -22,7 +23,8 @@ export const productData = [
     desc:
       'Salsa marinada, albahaca, salchicha italiana, piña, aceitunas y pesto',
     price: '850$',
-    button: 'Agregar al carrito'
+    button: 'Agregar al carrito',
+    cantidad: 100
   },
   {
     img: product3,
@@ -31,7 +33,8 @@ export const productData = [
     desc:
       ' Marinada en salsa de tomate, albahaca, salchicha italiana y pesto',
     price: '550$',
-    button: 'Agregar al carrito'
+    button: 'Agregar al carrito',
+    cantidad:100
   }
 ];
 
@@ -43,7 +46,8 @@ export const productDataTwo = [
     desc:
       'Glasiadas con chocolate Belga y chispas encima',
     price: '180$',
-    button: 'Agregar al carrito'
+    button: 'Agregar al carrito',
+    cantidad: 100
   },
   {
     img: sweet3,
@@ -52,7 +56,8 @@ export const productDataTwo = [
     desc:
       'Helado de vainilla Cubierto con caramelo y mucho dulce de leche',
     price: '370$',
-    button: 'Agregar al Carrito'
+    button: 'Agregar al Carrito',
+    cantidad: 100
   },
   {
     img: sweet1,
@@ -61,6 +66,7 @@ export const productDataTwo = [
     desc:
       'Cuadrados de Brownie, con glaseado de chocolate blanco y nueces',
     price: '310$',
-    button: 'Agregar al Carrito'
+    button: 'Agregar al Carrito',
+    cantidad: 100
   }
 ];
